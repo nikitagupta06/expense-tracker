@@ -26,6 +26,10 @@ public class Expense {
         this.expenseAmount = expenseAmount;
     }
 
+    public Expense() {
+
+    }
+
     public String getId() {
         return id;
     }
