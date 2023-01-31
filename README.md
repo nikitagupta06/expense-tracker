@@ -1,5 +1,5 @@
 # expense-tracker
-> Built a Simple expense tracker using spring data mongodb
+> Built a simple expense tracker using spring data mongodb
 
 > Performed database migration using Mongock
 
